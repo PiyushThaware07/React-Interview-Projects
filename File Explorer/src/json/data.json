@@ -1,0 +1,142 @@
+{
+    "id": "100",
+    "name": "root",
+    "isDir": true,
+    "items": [
+        {
+            "id": "1",
+            "name": "folder01",
+            "isDir": true,
+            "items": [
+                {
+                    "id": "1.1",
+                    "name": "sub folder 01",
+                    "isDir": true,
+                    "items": [
+                        {
+                            "id": "1.1.1",
+                            "name": "file01.txt",
+                            "isDir": false,
+                            "items": []
+                        },
+                        {
+                            "id": "1.1.2",
+                            "name": "file02.docx",
+                            "isDir": false,
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "name": "sub folder 02",
+                    "isDir": true,
+                    "items": [
+                        {
+                            "id": "1.2.1",
+                            "name": "file03.pdf",
+                            "isDir": false,
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "folder02",
+            "isDir": true,
+            "items": [
+                {
+                    "id": " 2.1",
+                    "name": "project",
+                    "isDir": true,
+                    "items": [
+                        {
+                            "id": "2.1.1",
+                            "name": "index.js",
+                            "isDir": false,
+                            "items": []
+                        },
+                        {
+                            "id": "2.1.2",
+                            "name": "style.css",
+                            "isDir": false,
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "name": "assets",
+                    "isDir": true,
+                    "items": [
+                        {
+                            "id": "2.2.1",
+                            "name": "logo.png",
+                            "isDir": false,
+                            "items": []
+                        },
+                        {
+                            "id": "2.2.2",
+                            "name": "background.jpg",
+                            "isDir": false,
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "package.json",
+            "isDir": false,
+            "items": []
+        },
+        {
+            "id": "4",
+            "name": "README.md",
+            "isDir": false,
+            "items": []
+        },
+        {
+            "id": "5",
+            "name": "src",
+            "isDir": true,
+            "items": [
+                {
+                    "id": "5.1",
+                    "name": "components",
+                    "isDir": true,
+                    "items": [
+                        {
+                            "id": "5.1.1",
+                            "name": "Header.js",
+                            "isDir": false,
+                            "items": []
+                        },
+                        {
+                            "id": "5.1.2",
+                            "name": "Footer.js",
+                            "isDir": false,
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "name": "utils",
+                    "isDir": true,
+                    "items": [
+                        {
+                            "id": "5.2.1",
+                            "name": "helpers.js",
+                            "isDir": false,
+                            "items": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
